@@ -8,6 +8,8 @@
 
 https://habr.com/ru/post/553658/
 
+https://machinelearningmastery.ru/sarima-for-time-series-forecasting-in-python/
+
 Описаное моделей:
 https://cran.r-project.org/web/packages/prophet/prophet.pdf
 

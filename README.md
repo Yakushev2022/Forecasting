@@ -14,6 +14,10 @@ https://machinelearningmastery.ru/sarima-for-time-series-forecasting-in-python/
 
 https://ritorika.com.ua/informacija/7/sarima-kak-podobrat-parametry
 
+https://russianblogs.com/article/6782726515/
+
+https://machinelearningmastery.ru/arima-for-time-series-forecasting-with-python/
+
 Описаное моделей:
 https://cran.r-project.org/web/packages/prophet/prophet.pdf
 

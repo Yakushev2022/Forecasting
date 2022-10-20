@@ -18,6 +18,8 @@ https://russianblogs.com/article/6782726515/
 
 https://machinelearningmastery.ru/arima-for-time-series-forecasting-with-python/
 
+https://wiki.loginom.ru/articles/autoregressive-model.html
+
 Описаное моделей:
 https://cran.r-project.org/web/packages/prophet/prophet.pdf
 
